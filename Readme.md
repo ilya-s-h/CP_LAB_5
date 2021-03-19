@@ -1,1 +1,1 @@
-<script src="./Lab5/bundle.js"></script>
+<script src="./bundle.js"></script>
